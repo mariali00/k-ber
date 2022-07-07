@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1562270002 source:/home/mariali/Escritorio/betweenness/src/intermediacion_acotada.cpp
+	"intermediacion_acotada.h"
+
+1562276387 /home/mariali/Escritorio/betweenness/include/intermediacion_acotada.h
+	<igraph/igraph.h>
+	<iostream>
+	<queue>
+	<stack>
+	<list>
+
+1562275996 source:/home/mariali/Escritorio/betweenness/src/pruebas_intermediacion.cpp
+	"pruebas_intermediacion.h"
+
+1562275934 /home/mariali/Escritorio/betweenness/include/pruebas_intermediacion.h
+	"intermediacion_acotada.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1562276159 source:/home/mariali/Escritorio/betweenness/main.cpp
+	"intermediacion_acotada.h"
+	"pruebas_intermediacion.h"
+
+1562240984 source:/home/marialis/Desktop/betweenness_/main.cpp
+	"intermediacion_acotada.h"
+	"pruebas_intermediacion.h"
+
+1562261986 /home/marialis/Desktop/betweenness_/include/intermediacion_acotada.h
+	<igraph/igraph.h>
+	<iostream>
+	<queue>
+	<stack>
+	<list>
+
+1562261534 /home/marialis/Desktop/betweenness_/include/pruebas_intermediacion.h
+	"intermediacion_acotada.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1562261986 source:/home/marialis/Desktop/betweenness_/src/intermediacion_acotada.cpp
+	"intermediacion_acotada.h"
+
+1562261986 source:/home/marialis/Desktop/betweenness_/src/pruebas_intermediacion.cpp
+	"pruebas_intermediacion.h"
+
+1562844724 source:/home/marialis/Desktop/betweenness/main.cpp
+	"intermediacion_acotada.h"
+	"pruebas_intermediacion.h"
+
+1562261986 /home/marialis/Desktop/betweenness/include/intermediacion_acotada.h
+	<igraph/igraph.h>
+	<iostream>
+	<queue>
+	<stack>
+	<list>
+
+1562261534 /home/marialis/Desktop/betweenness/include/pruebas_intermediacion.h
+	"intermediacion_acotada.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1562261986 source:/home/marialis/Desktop/betweenness/src/intermediacion_acotada.cpp
+	"intermediacion_acotada.h"
+
+1562844772 source:/home/marialis/Desktop/betweenness/src/pruebas_intermediacion.cpp
+	"pruebas_intermediacion.h"
+
